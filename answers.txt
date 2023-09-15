@@ -1,2 +1,3 @@
-What is a remote repository?
-Remote repositories are repositories that are stored externally from your device on the internet or other network.
+What is the difference between a merge and a rebase?
+The primary difference between the merge and rebase git functionalities are that the merge function merges the two histories together whereas a rebase creates a new 'base' and root history.
+This means that while cleaner and easier to see the progress without forks, a rebase won't be as easy to trace or recall the history.   
