@@ -1,0 +1,2 @@
+What is a remote repository?
+Remote repositories are repositories that are stored externally from your device on the internet or other network.
